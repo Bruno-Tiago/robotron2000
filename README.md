@@ -10,6 +10,10 @@ Robotron 2000 é um projeto de um robô personalizável que permite aos usuário
 
 * JavaScript
 
+## Execução do projeto:
+
+https://robotron2000-black-gamma.vercel.app/
+
 ## Feito por:
 
 ### Bruno Tiago da Silva
